@@ -1,4 +1,3 @@
-const getName = () => {
+export const getName = () => {
   return 'Marco'
 }
-export { getName }
