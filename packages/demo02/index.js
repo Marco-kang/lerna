@@ -1,5 +1,7 @@
 const getName = () => {
   return 'Marco'
 }
-
-modules.exports = getName
+const getAge = () => {
+  return '18'
+}
+module.exports = { getName, getAge }
