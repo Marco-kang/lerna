@@ -1,6 +1,6 @@
 {
   "name": "demo01",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "kk",
   "license": "ISC",
   "dependencies": {
-    "demo02": "^0.0.4"
+    "demo02": "^0.0.5"
   }
 }
