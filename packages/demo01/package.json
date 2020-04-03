@@ -1,6 +1,6 @@
 {
   "name": "demo01",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "kk",
   "license": "ISC",
   "dependencies": {
-    "demo02": "^0.0.1"
+    "demo02": "^0.0.2"
   },
   "gitHead": "1f34cb7a44dd584f838916cd8f6269c134ee90ea"
 }
